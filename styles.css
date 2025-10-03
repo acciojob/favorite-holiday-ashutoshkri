@@ -1,1 +1,53 @@
 /*  your css code here. If applicable */
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f9f6ef;
+      color: #333;
+      padding: 20px;
+      line-height: 1.6;
+    }
+
+    h1 {
+      text-align: center;
+      color: #5a2e0e;
+      font-size: 2rem;
+      margin-bottom: 10px;
+    }
+
+    p {
+      max-width: 800px;
+      margin: 0 auto 20px auto;
+      text-align: center;
+      font-size: 1.1rem;
+    }
+
+    h2 {
+      color: #7b3f00;
+      margin-top: 30px;
+      text-align: center;
+      text-decoration: underline;
+    }
+
+    ol, ul {
+      max-width: 700px;
+      margin: 15px auto;
+      padding-left: 40px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    strong {
+      color: #b22222;
+    }
+
+    em, i {
+      color: #3e7b0e;
+      font-style: italic;
+    }
+
+    b {
+      color: #5a2e0e;
+    }
